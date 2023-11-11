@@ -1,4 +1,4 @@
-# The Floor Is Lava Game (Unity 2D)
+# The Floor Is Lava Game (Unity 3D)
 
 ## Description
 
