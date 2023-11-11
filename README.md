@@ -20,7 +20,11 @@ https://play.unity.com/mg/other/webgl-projects-1-1
 
 ## Preview
 
-![thefloorislava](https://github.com/alavi007/The-Floor-Is-Lava/assets/112198239/13928fb0-021b-4bc8-a547-b037088981f9)
+![thefloorislava](https://github.com/alavi007/The-Floor-Is-Lava/assets/112198239/bc54d4b2-e51b-47a1-974d-0d63afbdc015)
+
+## Gameplay Video
+
+https://github.com/alavi007/The-Floor-Is-Lava/assets/112198239/8630ad34-e603-42ae-9c0b-4d9a6fdeabf3
 
 ## Found a Bug?
 
